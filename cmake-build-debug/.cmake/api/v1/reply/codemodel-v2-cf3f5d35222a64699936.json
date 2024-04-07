@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Vetores_MediaSalarial",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Vetores_MediaSalarial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Vetores_MediaSalarial-Debug-bcfe11adb68cde78c95c.json",
+					"name" : "Vetores_MediaSalarial",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/1- EM ANDAMENTO/4- Fatec - ADS/2\u00ba SEM - 2024/1- Linguagem de Programa\u00e7\u00e3o/2- Exerc\u00edcios/Exercicios em C/Vetores-MediaSalarial/cmake-build-debug",
+		"source" : "D:/1- EM ANDAMENTO/4- Fatec - ADS/2\u00ba SEM - 2024/1- Linguagem de Programa\u00e7\u00e3o/2- Exerc\u00edcios/Exercicios em C/Vetores-MediaSalarial"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
